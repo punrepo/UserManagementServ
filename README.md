@@ -1,2 +1,2 @@
 # UserManagementServ
-This is for managing user flows, signup, auth
+This is for managing user flows, signup, auth and auth
